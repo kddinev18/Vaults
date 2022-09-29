@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "aa7cb2a53a4d2904",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ec9684d662c217",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Assets/Pasted image 20220928180845.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3fffffd041c3e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e4489f84cbe578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fe84a06876df78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e4d063f75a13406",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3cc15d493f232d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "580612dcb32d531c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8919490cd23ad41a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assets/Pasted image 20220928180845.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42681e3d0b273026",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c93e8b88c861454",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a3605a7c52236d9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2375dfb2eed8699",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62b5d9c9b6d0e8e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/Pasted image 20220928180845.png"
+              }
+            }
+          },
+          {
+            "id": "ddbf1712770a049f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assets/Pasted image 20220928180845.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "active": "f1ec9684d662c217",
+  "lastOpenFiles": [
+    "Assets/Pasted image 20220928180918.png",
+    "Assets/Pasted image 20220928180923.png",
+    "Assets/Pasted image 20220928180925.png",
+    "ClassNotes/Mathematics/ClassNote Math - 2022-09-26.md",
+    "Index.md",
+    "Templates/School/DailyNotes Template.md",
+    "Templates/School/ClassNotes Template.md",
+    "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
+    "Templates/School/Title Template.md",
+    "Templates/Untitled.md"
+  ]
+}

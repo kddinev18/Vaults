@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasHouseChimney",
+      "FasListCheck",
+      "FasWindowRestore",
+      "RiHome4Line",
+      "IbShield1",
+      "IbChartBar",
+      "IbCircle"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Assets": "IbChartBar",
+  "Templates": "IbShield1",
+  "Homework": "FasHouseChimney",
+  "ClassNotes": "FasWindowRestore",
+  "DailyNotes": "FasListCheck"
+}
