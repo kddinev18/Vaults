@@ -7,9 +7,11 @@
         "id": "f1ec9684d662c217",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Assets/Pasted image 20220928180845.png"
+            "file": "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20220928180845.png",
+                "file": "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20220928180845.png"
+                "file": "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md"
               }
             }
           },
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20220928180845.png",
+                "file": "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,15 +143,15 @@
   },
   "active": "f1ec9684d662c217",
   "lastOpenFiles": [
+    "ClassNotes/Mathematics/ClassNote Math - 2022-09-26.md",
+    "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
+    "Assets/Pasted image 20220928180845.png",
     "Assets/Pasted image 20220928180918.png",
     "Assets/Pasted image 20220928180923.png",
     "Assets/Pasted image 20220928180925.png",
-    "ClassNotes/Mathematics/ClassNote Math - 2022-09-26.md",
     "Index.md",
     "Templates/School/DailyNotes Template.md",
     "Templates/School/ClassNotes Template.md",
-    "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
-    "Templates/School/Title Template.md",
-    "Templates/Untitled.md"
+    "Templates/School/Title Template.md"
   ]
 }
