@@ -3,11 +3,11 @@ tags: [classnote, ASD, revision]
 creation date: 2022-09-28 17:25
 modification date: 2022-09-28 17:27
 ---
-Links: [[Table of Contents]]
+Links: [[Index]]
 ```button
 name Go Back
 type link
-action obsidian://open?vault=PGKPI&file=Table%20of%20Contents
+action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
 # ClassNote - Revision
 2022-09-28
@@ -349,7 +349,7 @@ int main() {
   return 0;
 }
 ```
-
+### ==Stack, Queue, Deque==
 
 
 
