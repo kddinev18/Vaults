@@ -1,5 +1,5 @@
 ---
-tags: [classnote, subject, specification]
+tags: [classnote, subject, template]
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>
 ---

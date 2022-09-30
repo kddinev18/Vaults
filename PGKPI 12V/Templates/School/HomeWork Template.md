@@ -1,5 +1,5 @@
 ---
-tags: [homework, subject, specification]
+tags: [homework, subject, template]
 type : done/undone
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>

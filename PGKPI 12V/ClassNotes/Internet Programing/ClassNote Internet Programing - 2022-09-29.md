@@ -1,5 +1,5 @@
 ---
-tags: [classnote, ib=nternetprograming, protocols]
+tags: [classnote, IP, protocols]
 creation date: 2022-09-29 09:24
 modification date: 2022-09-29 09:24
 ---
