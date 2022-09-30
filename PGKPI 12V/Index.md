@@ -20,3 +20,8 @@ from #homework and !#archives and !#template
 list english
 from #archive
 ```
+## Templates:
+```dataview
+list english
+from #template 
+```

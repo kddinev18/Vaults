@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Index.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -143,15 +143,15 @@
   },
   "active": "1b96b81ed6d21063",
   "lastOpenFiles": [
-    "ClassNotes/xyzMains/Bulgarian - Main.md",
+    "Homework/Homework english- 2022-09-29.md",
     "Index.md",
-    "Templates/School/Title Template.md",
-    "Templates/School/HomeWork Template.md",
-    "Templates/School/DailyNotes Template.md",
-    "Templates/School/ClassNotes Template.md",
-    "ClassNotes/xyzMains/Software Engineering - Main.md",
     "ClassNotes/xyzMains/Professional Training - Main.md",
-    "ClassNotes/xyzMains/Mathematics - Main.md",
-    "ClassNotes/xyzMains/Internet Programming - Main.md"
+    "ClassNotes/xyzMains/Internet Programming - Main.md",
+    "ClassNotes/Internet Programing/ClassNote Internet Programing - 2022-09-30.md",
+    "ClassNotes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
+    "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
+    "ClassNotes/Mathematics/ClassNote Math - 2022-09-26.md",
+    "ClassNotes/Algorithms and Data Stuctures/Revision.md",
+    "ClassNotes/Algorithms and Data Stuctures/ClassNote Algorithm - 2022-09-30.md"
   ]
 }

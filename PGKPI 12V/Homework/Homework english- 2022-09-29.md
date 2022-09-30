@@ -4,11 +4,11 @@ type : done/undone
 creation date: 2022-09-29 13:06
 modification date: 2022-09-29 13:06
 ---
-Links: [[Table of Contents]]
+Links: [[English - Main]]
 ```button
 name Go Back
 type link
-action obsidian://open?vault=PGKPI&file=Table%20of%20Contents
+action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
 # Homework - Subject
 2022-09-29

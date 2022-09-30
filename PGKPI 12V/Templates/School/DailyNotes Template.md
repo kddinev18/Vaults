@@ -3,11 +3,11 @@ tags: [dailynote, template]
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>
 ---
-Links: [[DailyNotes - Main]]
+Links: [[Index]]
 ```button
 name Go Back
 type link
-action obsidian://open?vault=PGKPI&file=ClassNotes%2FDailyNotes%20-%20Main
+action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
 # <%tp.date.now("YYYY-MM-DD")%>
 

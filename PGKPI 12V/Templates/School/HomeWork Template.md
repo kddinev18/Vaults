@@ -4,11 +4,11 @@ type : done/undone
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>
 ---
-Links: [[Table of Contents]]
+Links: [[Index]]
 ```button
 name Go Back
 type link
-action obsidian://open?vault=PGKPI&file=Table%20of%20Contents
+action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
 # Homework - Subject
 <%tp.date.now("YYYY-MM-DD")%>

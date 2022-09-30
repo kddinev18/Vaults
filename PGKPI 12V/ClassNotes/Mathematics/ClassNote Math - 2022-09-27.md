@@ -3,7 +3,7 @@ tags: [classnote, math, statistics]
 creation date: 2022-09-27 21:04
 modification date: 2022-09-27 21:04
 ---
-Links: [[Index]]
+Links: [[Mathematics - Main]]
 ```button
 name Go Back
 type link

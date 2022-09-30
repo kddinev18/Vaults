@@ -3,7 +3,7 @@ tags: [classnote, IP, protocols]
 creation date: 2022-09-29 09:24
 modification date: 2022-09-29 09:24
 ---
-Links: [[Index]]
+Links: [[Internet Programming - Main]]
 ```button
 name Go Back
 type link

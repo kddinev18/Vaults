@@ -3,7 +3,7 @@ tags: [classnote, ADS, linkedlist]
 creation date: 2022-09-30 20:49
 modification date: 2022-09-30 20:49
 ---
-Links: [[Index]]
+Links: [[Algorithms and Data Stuctures - Main]]
 ```button
 name Go Back
 type link
