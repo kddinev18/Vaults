@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Homework/Homework Math - 2022-10-05.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Homework/Homework Math - 2022-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Homework/Homework Math - 2022-10-05.md"
               }
             }
           },
@@ -128,30 +128,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Homework/Homework Math - 2022-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 170.5
+    "width": 287
   },
   "active": "1b96b81ed6d21063",
   "lastOpenFiles": [
-    "Homework/Homework english- 2022-09-29.md",
+    "ClassNotes/Mathematics/ClassNote Math - 2022-10-05.md",
     "Index.md",
-    "ClassNotes/xyzMains/Professional Training - Main.md",
-    "ClassNotes/xyzMains/Internet Programming - Main.md",
-    "ClassNotes/Internet Programing/ClassNote Internet Programing - 2022-09-30.md",
-    "ClassNotes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
-    "ClassNotes/Mathematics/ClassNote Math - 2022-09-27.md",
-    "ClassNotes/Mathematics/ClassNote Math - 2022-09-26.md",
+    "ClassNotes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+    "ClassNotes/xyzMains/Bulgarian - Main.md",
+    "ClassNotes/xyzMains/Mathematics - Main.md",
+    "Homework/Homework english- 2022-09-29.md",
+    "Homework/Homework Math - 2022-10-03.md",
     "ClassNotes/Algorithms and Data Stuctures/Revision.md",
-    "ClassNotes/Algorithms and Data Stuctures/ClassNote Algorithm - 2022-09-30.md"
+    "ClassNotes/Algorithms and Data Stuctures/ClassNote Algorithm - 2022-09-30.md",
+    "ClassNotes/xyzMains/Professional Training - Main.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
-tags: [homework, english, reading]
-type : done/undone
+tags: [homework, english, undone]
+type : undone
 creation date: 2022-09-29 13:06
 modification date: 2022-09-29 13:06
 ---
