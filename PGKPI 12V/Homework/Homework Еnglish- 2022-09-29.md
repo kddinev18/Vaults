@@ -17,5 +17,5 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 ## Deadline
 -  [From : :: 2022-09-29]
 -  [To : :: 2022-10-06]
-- [ ] A reminder 📅 2022-10-05
+- [x] A reminder 📅 2022-10-05 ✅ 2022-10-06
 ---
