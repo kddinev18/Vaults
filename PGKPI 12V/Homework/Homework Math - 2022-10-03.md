@@ -4,7 +4,7 @@ type : done
 creation date: 2022-10-03 12:22
 modification date: 2022-10-03 12:22
 ---
-Links: [[Index]]
+Links: [[Mathematics - Main]]
 ```button
 name Go Back
 type link

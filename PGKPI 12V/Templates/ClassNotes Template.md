@@ -3,6 +3,7 @@ tags: [classnote, subject, template]
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>
 ---
+<% tp.file.rename("ClassNote Subject - " + tp.date.now()) %>
 Links: [[Index]]
 ```button
 name Go Back

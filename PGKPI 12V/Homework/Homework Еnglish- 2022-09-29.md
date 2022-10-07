@@ -13,7 +13,7 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 # Homework - Subject
 2022-09-29
 ## Description
--  99 in Tekctbook
+-  99 in Textbook
 ## Deadline
 -  [From : :: 2022-09-29]
 -  [To : :: 2022-10-06]

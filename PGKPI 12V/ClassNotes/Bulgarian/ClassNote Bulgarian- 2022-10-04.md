@@ -3,7 +3,7 @@ tags: [classnote, bulgarian, template]
 creation date: 2022-10-04 14:11
 modification date: 2022-10-04 14:11
 ---
-Links: [[Index]]
+Links: [[Bulgarian - Main]]
 ```button
 name Go Back
 type link

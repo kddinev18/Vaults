@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBook",
       "FasHouseChimney",
       "FasListCheck",
       "FasWindowRestore",
@@ -26,5 +27,6 @@
   "Templates": "IbShield1",
   "Homework": "FasHouseChimney",
   "ClassNotes": "FasWindowRestore",
-  "DailyNotes": "FasListCheck"
+  "DailyNotes": "FasListCheck",
+  "SchoolBooks": "FasBook"
 }

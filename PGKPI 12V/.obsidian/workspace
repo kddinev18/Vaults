@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1b96b81ed6d21063",
+        "id": "0708d033c951ba50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ClassNotes/English/ClassNote English - 2022-10-06.md",
-            "mode": "source",
+            "file": "Index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "f3cc15d493f232d6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ClassNotes/English/ClassNote English - 2022-10-06.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ClassNotes/English/ClassNote English - 2022-10-06.md"
+                "file": "Index.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ClassNotes/English/ClassNote English - 2022-10-06.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,19 +139,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 279.5
   },
-  "active": "1b96b81ed6d21063",
+  "active": "0708d033c951ba50",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Index.md",
-    "ClassNotes/English/ClassNote English - 2022-10-06.md",
-    "Homework/Homework Еnglish- 2022-09-29.md",
-    "Homework/Homework Math - 2022-10-05.md",
-    "ClassNotes/Mathematics/ClassNote Math - 2022-10-05.md",
     "ClassNotes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
-    "ClassNotes/xyzMains/Bulgarian - Main.md",
-    "ClassNotes/xyzMains/Mathematics - Main.md",
-    "Homework/Homework Math - 2022-10-03.md"
+    "ClassNotes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
+    "Index.md",
+    "Templates/ClassNotes Template.md",
+    "2022-10-07.md",
+    "DailyNotes/ClassNote Subject - 2022-10-07.md",
+    "Templates/School/Title Template.md",
+    "Homework/Homework Math - 2022-10-05.md",
+    "Homework/Homework Math - 2022-10-03.md",
+    "Homework/Homework Еnglish- 2022-09-29.md"
   ]
 }

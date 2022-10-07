@@ -3,7 +3,7 @@ tags: [classnote, SE, template]
 creation date: 2022-10-06 17:07
 modification date: 2022-10-06 17:07
 ---
-Links: [[Index]]
+Links: [[Software Engineering - Main]]
 ```button
 name Go Back
 type link
@@ -186,7 +186,7 @@ Varchar and nvarchar are variable length data types which we use to store differ
 - Varchar can store a maximum of 8000 non-Unicode characters and nvarchar stores maximum of 4000 Unicode or non-Unicode characters.
 
 ## 6. Relationships in SQL
-##### **Types of relationships in a database**
+#### **Types of relationships in a database**
 There are 3 main types of relationship in a database:
 -   one-to-one
 -   one-to-many

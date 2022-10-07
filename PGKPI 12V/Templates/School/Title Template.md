@@ -1,1 +1,0 @@
-<% tp.file.rename("ClassNote Subject - " + tp.date.now()) %>
