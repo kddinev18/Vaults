@@ -19,10 +19,10 @@ from #german and #classnote
 ## HomeWorks
 ```dataview
 list english
-from #german and #homework and !#archive
+from #german and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #german and #archive
+from #german and #done
 ```

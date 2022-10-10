@@ -10,19 +10,19 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# Mathematics
+# German
 ## ClassNotes
 ```dataview
 list english
-from #math and #classnote
+from #SE and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #math and #homework and !#archive
+from #SE and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #math and #archive
+from #SE and #done 
 ```

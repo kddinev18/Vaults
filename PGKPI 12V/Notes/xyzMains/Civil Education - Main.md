@@ -10,19 +10,19 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# Bulgarian
+# Civil Education
 ## ClassNotes
 ```dataview
 list english
-from #bulgarian and #classnote
+from #CE and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #bulgarian and #homework and !#archive
+from #CE and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #bulgarian and #archive
+from #CE and #done
 ```

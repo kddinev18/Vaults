@@ -10,19 +10,19 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# German
+# Functional Programming
 ## ClassNotes
 ```dataview
 list english
-from #PT and #classnote
+from #FP and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #PT and #homework and !#archive
+from #FP and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #PT and #archive
+from #FP and #done
 ```

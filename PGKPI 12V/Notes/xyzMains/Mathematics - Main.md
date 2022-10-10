@@ -10,19 +10,19 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# Civil Education
+# Mathematics
 ## ClassNotes
 ```dataview
 list english
-from #CE and #classnote
+from #math and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #CE and #homework and !#archive
+from #math and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #CE and #archive
+from #math and #done
 ```

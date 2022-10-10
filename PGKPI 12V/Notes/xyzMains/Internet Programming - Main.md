@@ -19,10 +19,10 @@ from #IP and #classnote
 ## HomeWorks
 ```dataview
 list english
-from #IP and #homework and !#archive
+from #IP and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #IP and #archive
+from #IP and #done
 ```

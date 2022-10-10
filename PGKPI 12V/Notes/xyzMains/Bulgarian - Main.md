@@ -10,19 +10,19 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# Algorithms and Data Stuctures
+# Bulgarian
 ## ClassNotes
 ```dataview
 list english
-from #ADS and #classnote
+from #bulgarian and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #ADS and #homework and !#archive
+from #bulgarian and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #ADS and #archive
+from #bulgarian and #done
 ```

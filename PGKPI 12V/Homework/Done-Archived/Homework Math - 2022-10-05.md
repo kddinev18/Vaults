@@ -1,6 +1,6 @@
 ---
-tags: [homework, math, template]
-type : undone
+tags: [homework, math, done]
+type : done
 creation date: 2022-10-05 14:01
 modification date: 2022-10-05 14:01
 ---
@@ -17,5 +17,7 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 ## Deadline
 -  [From : :: 2022-10-05]
 -  [To : :: 2022-10-10T04:19:35.000]
-- [ ] A reminder 📅 2022-10-09
+- [x] A reminder 📅 2022-10-09 ✅ 2022-10-09
 ---
+## Homework
+![[kddinev18-09.10.2022.pdf]]

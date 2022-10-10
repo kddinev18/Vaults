@@ -10,19 +10,19 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# Functional Programming
+# Algorithms and Data Stuctures
 ## ClassNotes
 ```dataview
 list english
-from #FP and #classnote
+from #ADS and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #FP and #homework and !#archive
+from #ADS and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #FP and #archive
+from #ADS and #done
 ```

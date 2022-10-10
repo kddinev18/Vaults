@@ -17,5 +17,5 @@ from #template
 ## Archives:
 ```dataview
 list english
-from #archive
+from #archive or #done
 ```

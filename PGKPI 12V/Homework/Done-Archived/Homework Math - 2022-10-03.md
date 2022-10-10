@@ -13,7 +13,7 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 # Homework - Subject
 2022-10-03
 ## Description
--  Detailed description of the homeowrk / task / assigment
+-  Detailed description of the homeowrk in moodle
 ## Notes
 ![[Math-03.10.2022-kddinev18.pdf]]
 ## Deadline

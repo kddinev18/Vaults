@@ -14,15 +14,15 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 ## ClassNotes
 ```dataview
 list english
-from #SE and #classnote
+from #PT and #classnote
 ```
 ## HomeWorks
 ```dataview
 list english
-from #SE and #homework and !#archive
+from #PT and #homework and !#done
 ```
 ## Archives
 ```dataview
 list english
-from #SE and #archive
+from #PT and #done
 ```
