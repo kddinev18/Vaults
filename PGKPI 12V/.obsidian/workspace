@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
-            "mode": "preview",
+            "file": "Homework/Homework Герман - 2022-10-10.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Homework/Homework Герман - 2022-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Homework/Homework Герман - 2022-10-10.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Homework/Homework Герман - 2022-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,15 +143,15 @@
   },
   "active": "0708d033c951ba50",
   "lastOpenFiles": [
-    "ClassNotes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
-    "ClassNotes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
-    "Index.md",
-    "Templates/ClassNotes Template.md",
-    "2022-10-07.md",
-    "DailyNotes/ClassNote Subject - 2022-10-07.md",
-    "Templates/School/Title Template.md",
-    "Homework/Homework Math - 2022-10-05.md",
+    "Homework/Homework Еnglish- 2022-09-29.md",
     "Homework/Homework Math - 2022-10-03.md",
-    "Homework/Homework Еnglish- 2022-09-29.md"
+    "Homework/Homework Герман - 2022-10-10.md",
+    "ClassNotes/German/ClassNote German - 2022-10-10.md",
+    "ClassNotes/Algorithms/ClassNote Algorithms- 2022-10-10.md",
+    "ClassNotes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
+    "ClassNotes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
+    "Index.md",
+    "ClassNotes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+    "Templates/ClassNotes Template.md"
   ]
 }
