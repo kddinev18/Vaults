@@ -9,8 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Notes/Linux/ClassNote Subject - 2022-10-08.md",
             "mode": "preview",
+=======
+            "file": "Homework/Homework Герман - 2022-10-10.md",
+            "mode": "source",
+>>>>>>> ff64ac30dd4fe34c33ba55be8cd288c12ad9b738
             "source": false
           }
         }
@@ -69,7 +74,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Linux/ClassNote Subject - 2022-10-08.md",
+=======
+                "file": "Homework/Homework Герман - 2022-10-10.md",
+>>>>>>> ff64ac30dd4fe34c33ba55be8cd288c12ad9b738
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +127,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Linux/ClassNote Subject - 2022-10-08.md"
+=======
+                "file": "Homework/Homework Герман - 2022-10-10.md"
+>>>>>>> ff64ac30dd4fe34c33ba55be8cd288c12ad9b738
               }
             }
           },
@@ -128,7 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Linux/ClassNote Subject - 2022-10-08.md",
+=======
+                "file": "Homework/Homework Герман - 2022-10-10.md",
+>>>>>>> ff64ac30dd4fe34c33ba55be8cd288c12ad9b738
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +160,7 @@
   },
   "active": "0708d033c951ba50",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Notes/Linux/ClassNote Subject - 2022-10-08.md",
     "Notes/Linux/ClassNote Linux - 2022-10-06.md",
     "Notes/Linux/ClassNote Linux- 2022-10-07.md",
@@ -153,5 +171,17 @@
     "Notes/xyzMains/Bulgarian - Main.md",
     "Notes/xyzMains/Civil Education - Main.md",
     "Notes/xyzMains/English - Main.md"
+=======
+    "Homework/Homework Еnglish- 2022-09-29.md",
+    "Homework/Homework Math - 2022-10-03.md",
+    "Homework/Homework Герман - 2022-10-10.md",
+    "ClassNotes/German/ClassNote German - 2022-10-10.md",
+    "ClassNotes/Algorithms/ClassNote Algorithms- 2022-10-10.md",
+    "ClassNotes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
+    "ClassNotes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
+    "Index.md",
+    "ClassNotes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+    "Templates/ClassNotes Template.md"
+>>>>>>> ff64ac30dd4fe34c33ba55be8cd288c12ad9b738
   ]
 }
