@@ -4,7 +4,7 @@ creation date: 2022-10-12 11:23
 modification date: 2022-10-12 11:23
 ---
 
-Links: [[Index]]
+Links: [[Bulgarian - Main]]
 ```button
 name Go Back
 type link

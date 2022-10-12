@@ -1,5 +1,5 @@
 ---
-tags: [classnote, ASD]
+tags: [classnote, ADS]
 creation date: 2022-10-10 10:43
 modification date: 2022-10-10 10:43
 ---
