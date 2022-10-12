@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Bulgarian.md",
+            "file": "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +30,7 @@
             "id": "1dff859e69de98fe",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "empty",
               "state": {}
             }
           },
@@ -48,8 +48,25 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b0dd66e97ca00b13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "02989069fc07cff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -77,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Bulgarian.md",
+                "file": "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Bulgarian.md",
+                "file": "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Bulgarian.md"
+                "file": "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md"
               }
             }
           },
@@ -134,15 +151,15 @@
   },
   "active": "261c496e089ace40",
   "lastOpenFiles": [
-    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+    "Homework/Homework Bulgarian - 2022-10-11.md",
+    "Homework/Homework German - 2022-10-10.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
+    "Notes/Bulgarian/Drawing 2022-10-12 11.22.58.excalidraw.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-11.md",
     "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
     "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
-    "Index.md",
-    "Templates/Table Tempplate.md",
-    "Templates/Ad-Note Template.md",
-    "Templates/CodeBlock Template.md",
-    "Templates/Titile Template.md"
+    "Index.md"
   ]
 }
