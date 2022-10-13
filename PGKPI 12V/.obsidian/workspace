@@ -7,8 +7,12 @@
         "id": "261c496e089ace40",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Homework/Homework English - 2022-10-13.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homework/Homework English - 2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homework/Homework English - 2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Homework/Homework English - 2022-10-13.md"
+              }
             }
           },
           {
@@ -152,15 +160,15 @@
   },
   "active": "261c496e089ace40",
   "lastOpenFiles": [
+    "Notes/English/ClassNote English - 2022-10-11.md",
+    "Notes/English/ClassNote English- 2022-10-13.md",
+    "Homework/Homework English - 2022-10-13.md",
+    "Index.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
     "Notes/English/ClassNote English - 2022-10-06.md",
     "Notes/Algorithms/ClassNote Algorithms- 2022-10-10.md",
     "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
     "Notes/Mathematics/ClassNote Math - 2022-10-05.md",
-    "Notes/Mathematics/ClassNote Math - 2022-09-27.md",
-    "Notes/Mathematics/ClassNote Math - 2022-09-26.md",
-    "Notes/Linux/ClassNote Subject - 2022-10-08.md",
-    "Notes/Linux/ClassNote Linux- 2022-10-07.md",
-    "Notes/Linux/ClassNote Linux - 2022-10-06.md",
-    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-30.md"
+    "Notes/Mathematics/ClassNote Math - 2022-09-27.md"
   ]
 }
