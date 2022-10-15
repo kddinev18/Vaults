@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Tokyo Night – Копие",
+  "cssTheme": "Tokyo Night",
   "baseFontSize": 19,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }

@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "5c5f5ca3fc66915a",
+    "type": "split",
+    "children": [
+      {
+        "id": "60cbb58a2ed6a166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf994bb77e74b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/English/ClassNote English - 2022-10-15.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92237cb764f0de56",
+    "type": "split",
+    "children": [
+      {
+        "id": "388d9fd1496ad6ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dff859e69de98fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "448525dfb5d4e236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0dd66e97ca00b13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "02989069fc07cff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f86b754944468f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7301c04a39e782b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a459f8cd14af9a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49d2d893cd3081fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/English/ClassNote English - 2022-10-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f22ba97644ea3679",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/English/ClassNote English - 2022-10-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9b21b0ffa920502",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/English/ClassNote English - 2022-10-15.md"
+              }
+            }
+          },
+          {
+            "id": "d9f5b3df4601d36c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d94c9f2177411d5a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "8732faf2d1cedf4e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "caf994bb77e74b9d",
+  "lastOpenFiles": [
+    "Homework/Homework English - 2022-10-13.md",
+    "Notes/xyzMains/English - Main.md",
+    "Index.md",
+    "Notes/English/ClassNote English - 2022-10-15.md",
+    "Homework/Homework Math - 2022-10-10.md",
+    "Assets/PNGs/Pasted image 20221015150017.png",
+    "Assets/PNGs/Pasted image 20221015145929.png",
+    "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md"
+  ]
+}

@@ -22,11 +22,5 @@
       "bottom": 2,
       "left": 2
     }
-  },
-  "Assets": "IbChartBar",
-  "Templates": "IbShield1",
-  "Homework": "FasHouseChimney",
-  "DailyNotes": "FasListCheck",
-  "SchoolBooks": "FasBook",
-  "Notes": "FasWindowRestore"
+  }
 }

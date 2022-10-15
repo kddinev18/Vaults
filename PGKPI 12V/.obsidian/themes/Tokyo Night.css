@@ -540,7 +540,8 @@ span.math.math-block {
 
 .frontmatter-container {
   background-color: #191a2a;
-  border: none;
+  border-radius: 15px;
+  padding: 15px;
 }
 .frontmatter-container .frontmatter-collapse-indicator {
   color: #7a88cf;
@@ -1256,7 +1257,7 @@ textarea:hover {
 }
 
 .task-metadata > * {
-  margin-right: 30px;
+  margin: 30px;
 }
 
 .task-date.task-overdue {
