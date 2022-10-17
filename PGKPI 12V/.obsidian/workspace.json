@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "60cbb58a2ed6a166",
+        "id": "02697c7c72579eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "caf994bb77e74b9d",
+            "id": "ac489624e5c5fe74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+                "file": "Homework/Homework Bulgarian - 2022-10-11.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "471b1f4d9ef9964c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d8fd0fe5ef6ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e62910d642084e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
+                "file": "Homework/Homework Bulgarian - 2022-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
+                "file": "Homework/Homework Bulgarian - 2022-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md"
+                "file": "Homework/Homework Bulgarian - 2022-10-11.md"
               }
             }
           },
@@ -205,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "471b1f4d9ef9964c",
+  "active": "ac489624e5c5fe74",
   "lastOpenFiles": [
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
+    "Homework/Homework Bulgarian - 2022-10-11.md",
+    "Homework/Homework German - 2022-10-17.md",
     "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md",
     "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
-    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
     "Notes/German/ClassNote German - 2022-10-10.md",
     "Homework/Done-Archived/Homework English - 2022-10-13.md",
     "Homework/Done-Archived/Homework Math - 2022-10-10.md",
-    "Homework/Homework Bulgarian - 2022-10-11.md",
-    "Homework/Homework German - 2022-10-17.md",
     "Homework/Done-Archived/Homework German - 2022-10-10.md"
   ]
 }
