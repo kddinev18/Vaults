@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-10-15.md",
+                "file": "Notes/German/ClassNote German - 2022-10-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d8fd0fe5ef6ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e62910d642084e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-10-15.md",
+                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-10-15.md",
+                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-10-15.md"
+                "file": "Homework/Done-Archived/Homework German - 2022-10-10.md"
               }
             }
           },
@@ -168,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "caf994bb77e74b9d",
+  "active": "02989069fc07cff3",
   "lastOpenFiles": [
-    "Homework/Homework English - 2022-10-13.md",
-    "Notes/xyzMains/English - Main.md",
+    "Homework/Done-Archived/Homework English - 2022-10-13.md",
+    "Homework/Done-Archived/Homework Math - 2022-10-10.md",
+    "Homework/Homework Bulgarian - 2022-10-11.md",
+    "Homework/Homework German - 2022-10-17.md",
+    "Homework/Done-Archived/Homework German - 2022-10-10.md",
+    "Notes/German/ClassNote German - 2022-10-17.md",
+    "Notes/German/ClassNote German - 2022-10-10.md",
     "Index.md",
     "Notes/English/ClassNote English - 2022-10-15.md",
-    "Homework/Homework Math - 2022-10-10.md",
-    "Assets/PNGs/Pasted image 20221015150017.png",
-    "Assets/PNGs/Pasted image 20221015145929.png",
-    "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
-    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
-    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md"
+    "Notes/xyzMains/English - Main.md"
   ]
 }

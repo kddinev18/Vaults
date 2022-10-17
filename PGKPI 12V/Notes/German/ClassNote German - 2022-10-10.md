@@ -13,7 +13,7 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 # ClassNote - German
 2022-10-10
 # Notes
-## Sizh, Muss, etc
+## Sich, Muss, Zetc
 **sich an**ziehen, zog **sich an**, hat **sich an**gezogen
 
 *Ziehst* du dich bald *an*?- Ще се облечеш ли скоро
@@ -38,8 +38,11 @@ Es ist wichtig, *dass* **man** Fremdsprachen **lernt** - Важно е да се
 | sie | sie  | ihmen |
 
 Der Vater kauft dem Sohn den vall
-wer? - *N*            Wem - *D*     Was - *Akk*
+wer? - *N* ............Wem - *D*....Was - *Akk*
 
 Er kauft ihn ihm
 
 Подредба: Първо *Akk* местоимението после *D* местоимението
+
+
+Erzählt die Oma dem Kind das neue Mädchen

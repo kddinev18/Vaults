@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Homework English - 2022-10-13.md",
-            "mode": "source",
+            "file": "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Homework English - 2022-10-13.md",
+                "file": "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Homework English - 2022-10-13.md",
+                "file": "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Homework English - 2022-10-13.md"
+                "file": "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "261c496e089ace40",
   "lastOpenFiles": [
+    "Homework/Homework English - 2022-10-13.md",
     "Notes/English/ClassNote English - 2022-10-11.md",
     "Notes/English/ClassNote English- 2022-10-13.md",
-    "Homework/Homework English - 2022-10-13.md",
     "Index.md",
     "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
     "Notes/English/ClassNote English - 2022-10-06.md",
