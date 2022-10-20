@@ -9,7 +9,7 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# ClassNote - Subject
+# ClassNote - Inthernet Programing
 2022-09-30
 
 What is a server

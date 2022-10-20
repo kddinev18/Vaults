@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02697c7c72579eb1",
+        "id": "d50964f76a031faf",
         "type": "tabs",
         "children": [
           {
-            "id": "ac489624e5c5fe74",
+            "id": "fe8656c0f5341ba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/Homework Bulgarian - 2022-10-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Homework Bulgarian - 2022-10-11.md",
+                "file": "Assets/PNGs/Pasted image 20221020092142.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Homework Bulgarian - 2022-10-11.md",
+                "file": "Assets/PNGs/Pasted image 20221020092142.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Homework Bulgarian - 2022-10-11.md"
+                "file": "Assets/PNGs/Pasted image 20221020092142.png"
               }
             }
           },
@@ -168,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ac489624e5c5fe74",
+  "active": "02989069fc07cff3",
   "lastOpenFiles": [
-    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
-    "Homework/Homework Bulgarian - 2022-10-11.md",
-    "Homework/Homework German - 2022-10-17.md",
-    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md",
-    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
-    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
-    "Notes/German/ClassNote German - 2022-10-10.md",
+    "Homework/Homework English - 2022-10-20.md",
     "Homework/Done-Archived/Homework English - 2022-10-13.md",
-    "Homework/Done-Archived/Homework Math - 2022-10-10.md",
-    "Homework/Done-Archived/Homework German - 2022-10-10.md"
+    "Notes/English/ClassNote English - 2022-10-20.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-10-20.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-30.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-19.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md"
   ]
 }
