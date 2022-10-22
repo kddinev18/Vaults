@@ -1,5 +1,5 @@
 ---
-tags: [classnote, bulgarian, template]
+tags: [classnote, bulgarian]
 creation date: 2022-10-12 11:23
 modification date: 2022-10-12 11:23
 ---

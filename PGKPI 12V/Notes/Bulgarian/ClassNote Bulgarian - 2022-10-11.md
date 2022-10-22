@@ -1,5 +1,5 @@
 ---
-tags: [classnote, subject, template]
+tags: [classnote, subject]
 creation date: 2022-10-11 14:38
 modification date: 2022-10-11 14:38
 ---
@@ -61,3 +61,5 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 
 
 Метонимия - когато назоваваме нещо с част от него
+
+https://www.slovo.bg/showwork.php3?AuID=180&WorkID=10263&Level=2

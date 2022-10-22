@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "02697c7c72579eb1",
+        "id": "d50964f76a031faf",
         "type": "tabs",
         "children": [
           {
-            "id": "ac489624e5c5fe74",
+            "id": "fe8656c0f5341ba1",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Homework/Done-Archived/Homework English - 2022-10-13.md",
                 "mode": "preview",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> b9c511d61ccd5410d8d3aed09df80f2389d3c7aa
             }
           },
           {
@@ -110,7 +115,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Homework/Done-Archived/Homework English - 2022-10-13.md",
+=======
+                "file": "Assets/PNGs/Pasted image 20221020092142.png",
+>>>>>>> b9c511d61ccd5410d8d3aed09df80f2389d3c7aa
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Homework/Done-Archived/Homework English - 2022-10-13.md",
+=======
+                "file": "Assets/PNGs/Pasted image 20221020092142.png",
+>>>>>>> b9c511d61ccd5410d8d3aed09df80f2389d3c7aa
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Homework/Done-Archived/Homework English - 2022-10-13.md"
+=======
+                "file": "Assets/PNGs/Pasted image 20221020092142.png"
+>>>>>>> b9c511d61ccd5410d8d3aed09df80f2389d3c7aa
               }
             }
           },
@@ -178,6 +195,7 @@
   },
   "active": "02989069fc07cff3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Homework/Done-Archived/Homework Еnglish- 2022-09-29.md",
     "Homework/Done-Archived/Homework English - 2022-10-13.md",
     "Homework/Homework German - 2022-10-17.md",
@@ -188,5 +206,17 @@
     "Notes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
     "Notes/Algorithms/Revision.md",
     "Notes/Algorithms/ClassNote Algorithms- 2022-10-10.md"
+=======
+    "Homework/Homework English - 2022-10-20.md",
+    "Homework/Done-Archived/Homework English - 2022-10-13.md",
+    "Notes/English/ClassNote English - 2022-10-20.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-10-20.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
+    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-30.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-19.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md"
+>>>>>>> b9c511d61ccd5410d8d3aed09df80f2389d3c7aa
   ]
 }

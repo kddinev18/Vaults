@@ -82,6 +82,7 @@ Each message of the SMTP contains the following fields:
 -   Header
 -   Contents
 ```
+
 ```ad-warning
 RAW SMTP SUPORTS ONLY ASCII
 ```
