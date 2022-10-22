@@ -9,7 +9,7 @@ name Go Back
 type link
 action obsidian://open?vault=PGKPI%2012V&file=Index
 ```
-# ClassNote - Subject
+# ClassNote - LinkedList
 2022-09-30
 
 Linked list
@@ -331,26 +331,4 @@ NODE* prepend(NODE* tail, int newData)
 	tail->next = temp;
 	
 	return tail;
-}](<1. Lorem ipsum dolor
-	- Lorem ipsum dolor
-		- Lorem ipsum dolor
-2. Lorem ipsum dolor
-	- Lorem ipsum dolor
-	- [ ] Lorem ipsum dolorLorem ipsum dolor
-
-[LOREM](https://loremipsum.io/generator/?n=5&t=p)
-
-`Lorem()`
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-`Lorem()`
-
-Lorem ipsum dolor sit amet, consectetur.
-
-| A   | B   | XOR |
-| --- | --- | --- |
-| 0   | 0   | 0   |
-| 0   | 1   | 1   |
-| 1   | 0   | 1   |
-| 1   | 1   | 0   |>)
+}
