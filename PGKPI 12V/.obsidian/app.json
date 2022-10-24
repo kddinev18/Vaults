@@ -8,5 +8,11 @@
     "en-GB",
     "de-DE"
   ],
-  "tabSize": 4
+  "tabSize": 4,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
