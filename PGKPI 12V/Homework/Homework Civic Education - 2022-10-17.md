@@ -1,5 +1,5 @@
 ---
-tags: [homework, german, template]
+tags: [homework, CE, template]
 type : done/undone
 creation date: 2022-10-17 14:27
 modification date: 2022-10-17 14:27

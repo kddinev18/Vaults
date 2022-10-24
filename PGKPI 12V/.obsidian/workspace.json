@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac489624e5c5fe74",
+            "id": "f0c1690c4a8dc730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/Homework German - 2022-10-17.md",
-                "mode": "preview",
+                "file": "Notes/German/ClassNote German - 2022-10-24.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "087d5a40b523c4a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Homework German - 2022-10-17.md",
+                "file": "Notes/German/ClassNote German - 2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Homework German - 2022-10-17.md",
+                "file": "Notes/German/ClassNote German - 2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Homework German - 2022-10-17.md"
+                "file": "Notes/German/ClassNote German - 2022-10-24.md"
               }
             }
           },
@@ -176,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ac489624e5c5fe74",
+  "active": "f0c1690c4a8dc730",
   "lastOpenFiles": [
+    "Notes/German/ClassNote German - 2022-10-24.md",
+    "Notes/xyzMains/German - Main.md",
+    "Index.md",
+    "Notes/xyzMains/Civil Education - Main.md",
     "Homework/Homework Civic Education - 2022-10-17.md",
-    "Homework/Homework German - 2022-10-17.md",
-    "Homework/Done-Archived/Homework English - 2022-10-20.md",
-    "Homework/Done-Archived/Homework English - 2022-10-13.md",
-    "Homework/Done-Archived/Homework Еnglish- 2022-09-29.md",
-    "Notes/English/ClassNote English - 2022-10-06.md",
-    "Notes/English/ClassNote English - 2022-10-11.md",
-    "Notes/English/ClassNote English - 2022-10-15.md",
+    "Notes/German/ClassNote German - 2022-10-10.md",
+    "Notes/German/ClassNote German - 2022-10-17.md",
     "Notes/Algorithms/ClassNote Algorithm - 2022-10-22.md",
-    "Notes/Algorithms/ClassNote Algorithm - 2022-09-30.md"
+    "Notes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
+    "Notes/Algorithms/ClassNote Algorithms- 2022-10-10.md"
   ]
 }
