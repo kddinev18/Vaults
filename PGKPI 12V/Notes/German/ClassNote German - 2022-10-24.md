@@ -48,7 +48,7 @@ Morgen *würde* ich *kommen*, aber ich habe kaine Zait - Бих дошъл, но
 
 |     | sein   |
 | --- | ------ |
-| ich | wräe   |
+| ich | wäre   |
 | du  | wärest |
 | er  | wäre   |
 | wir | wären |
