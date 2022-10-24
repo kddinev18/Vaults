@@ -66,3 +66,9 @@ Mein freund ist nich zu Hause - Моя приятел не е в къщата
 
 Ich habe keine Zeit - Нямам време
 Ich hätte Zeit
+
+```ad-note
+title: Формула
+Ако глагола е модален или спомагателен. Се взима втората му форма и се добавя умляут
+haben - hatte => hätte
+```
