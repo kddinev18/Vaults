@@ -14,7 +14,6 @@ action obsidian://open?vault=PGKPI%2012V&file=Index
 # Notes
 ## 0. MVC
 MVC (Model-View-Controller) is **a pattern in software design commonly used to implement user interfaces, data, and controlling logic**. It emphasizes a separation between the software's business logic and display.
-
 ## 1. What is API
 APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols.
 ```ad-note
