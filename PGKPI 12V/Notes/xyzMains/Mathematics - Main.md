@@ -4,7 +4,7 @@ creation date: 2022-01-25 08:01
 modification date: 2022-01-25 08:01
 ---
 
-Links: [[Index]]
+Links: [[Home]]
 ```button
 name Go Back
 type link

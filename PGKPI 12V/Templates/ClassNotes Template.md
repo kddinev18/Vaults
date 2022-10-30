@@ -4,7 +4,7 @@ creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>
 ---
 <% tp.file.rename("ClassNote Subject - " + tp.date.now()) %>
-Links: [[Index]]
+Links: [[Home]]
 ```button
 name Go Back
 type link

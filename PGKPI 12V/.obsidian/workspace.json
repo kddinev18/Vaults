@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "746f2563572a927c",
+        "id": "3a2f752690a82f24",
         "type": "tabs",
         "children": [
           {
-            "id": "230b94d90f4ef20a",
+            "id": "5f70de37a0ba1188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fe36348b80d0d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
-                "mode": "source",
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md"
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md"
               }
             }
           },
@@ -197,17 +184,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9fe36348b80d0d0f",
+  "active": "5f70de37a0ba1188",
   "lastOpenFiles": [
+    "Homework/Done-Archived/Homework English - 2022-10-13.md",
+    "Homework/Done-Archived/Homework Еnglish- 2022-09-29.md",
+    "Home.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-25.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-19.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-24.md",
-    "Home.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
-    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md",
-    "Notes/Internet Programing/ClassNote Internet Programing - 2022-10-25.md",
-    "Assets/PNGs/Pasted image 20221025100456.png"
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md"
   ]
 }
