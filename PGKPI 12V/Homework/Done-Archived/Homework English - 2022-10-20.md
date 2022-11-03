@@ -1,5 +1,5 @@
 ---
-tags: [homework, english, undone]
+tags: [homework, english, done]
 type : done/undone
 creation date: 2022-10-13 12:00
 modification date: 2022-10-13 12:00
