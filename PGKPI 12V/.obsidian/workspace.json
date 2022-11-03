@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "a115d3f4f104334d",
         "type": "tabs",
         "children": [
           {
             "id": "67ba30b2ed01ab97",
+=======
+        "id": "3a2f752690a82f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f70de37a0ba1188",
+>>>>>>> 86cd7be0418d92744d2bc573cbc7d54b8ab020fc
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
+=======
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md",
+>>>>>>> 86cd7be0418d92744d2bc573cbc7d54b8ab020fc
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
+=======
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md",
+>>>>>>> 86cd7be0418d92744d2bc573cbc7d54b8ab020fc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
+=======
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md",
+>>>>>>> 86cd7be0418d92744d2bc573cbc7d54b8ab020fc
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +151,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md"
+=======
+                "file": "Homework/Done-Archived/Homework English - 2022-10-20.md"
+>>>>>>> 86cd7be0418d92744d2bc573cbc7d54b8ab020fc
               }
             }
           },
@@ -181,6 +205,7 @@
     "direction": "horizontal",
     "width": 305.5
   },
+<<<<<<< HEAD
   "active": "67ba30b2ed01ab97",
   "lastOpenFiles": [
     "Notes/Internet Programing/ClassNote Internet Programing - 2022-11-03.md",
@@ -193,5 +218,22 @@
     "Notes/Internet Programing/ClassNote Internet Programing - 2022-10-20.md",
     "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-30.md",
     "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md"
+=======
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5f70de37a0ba1188",
+  "lastOpenFiles": [
+    "Homework/Done-Archived/Homework English - 2022-10-13.md",
+    "Homework/Done-Archived/Homework Еnglish- 2022-09-29.md",
+    "Home.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-25.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-18.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-19.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-24.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-17.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-12.md"
+>>>>>>> 86cd7be0418d92744d2bc573cbc7d54b8ab020fc
   ]
 }

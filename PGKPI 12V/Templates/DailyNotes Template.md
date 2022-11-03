@@ -3,7 +3,7 @@ tags: [dailynote, template]
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date() %>
 ---
-Links: [[Index]]
+Links: [[Home]]
 ```button
 name Go Back
 type link
