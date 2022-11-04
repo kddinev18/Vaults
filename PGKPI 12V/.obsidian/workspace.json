@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00f3a8c1e4beadf8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7014136ded6159da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "3214192ae3c601e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
+            "mode": "source",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -182,17 +176,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c9b21b0ffa920502",
+  "active": "3214192ae3c601e9",
   "lastOpenFiles": [
     "Notes/Algorithms/ClassNote Algorithms- 2022-10-10.md",
+    "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
+    "Notes/Algorithms/Revision.md",
+    "Notes/Algorithms/ClassNote Algorithm - 2022-10-22.md",
+    "Notes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
     "Home.md",
     "Homework/Done-Archived/Homework English - 2022-10-20.md",
     "Homework/Homework English - 2022-10-13.md",
     "Notes/English/ClassNote English - 2022-10-11.md",
-    "Notes/English/ClassNote English- 2022-10-13.md",
-    "Index.md",
-    "Notes/Internet Programing/ClassNote Internet Programing - 2022-09-29.md",
-    "Notes/English/ClassNote English - 2022-10-06.md",
-    "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md"
+    "Notes/English/ClassNote English- 2022-10-13.md"
   ]
 }
