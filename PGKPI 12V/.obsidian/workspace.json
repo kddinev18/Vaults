@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aaad36e75a0a83f3",
+        "id": "ca95cdd324d501e3",
         "type": "tabs",
         "children": [
           {
-            "id": "08efcd9ba00106ab",
+            "id": "2b94397af03816c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-10-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cda4888ecbe04e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/English/ClassNote English - 2022-11-14.md",
+                "file": "Notes/Softoware Engineering/ClassNote Softoware Engineering - 2022-11-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-11-14.md",
+                "file": "Notes/Softoware Engineering/ClassNote Softoware Engineering - 2022-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-11-14.md",
+                "file": "Notes/Softoware Engineering/ClassNote Softoware Engineering - 2022-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/English/ClassNote English - 2022-11-14.md"
+                "file": "Notes/Softoware Engineering/ClassNote Softoware Engineering - 2022-11-11.md"
               }
             }
           },
@@ -195,17 +182,17 @@
     "direction": "horizontal",
     "width": 291.5
   },
-  "active": "cda4888ecbe04e5e",
+  "active": "2b94397af03816c8",
   "lastOpenFiles": [
+    "Notes/xyzMains/Software Engineering - Main.md",
+    "Home.md",
     "Notes/English/ClassNote English - 2022-10-06.md",
     "Notes/English/ClassNote English - 2022-10-15.md",
     "Notes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
     "Notes/Civil Education/ClassNote Civic Education - 2022-10-18.md",
-    "Home.md",
     "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
     "Notes/Algorithms/ClassNote Algorithms- 2022-10-10.md",
     "Notes/Algorithms/Revision.md",
-    "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md",
-    "Notes/Algorithms/ClassNote Algorithm - 2022-10-22.md"
+    "Notes/Algorithms/ClassNote Algorithms - 2022-11-03.md"
   ]
 }

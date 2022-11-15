@@ -416,6 +416,151 @@ CREATE TABLE College (
 ```
 ## 7. Заявки за извличане и промяна на данни
 ## 8. Сложни заявки за извличане на данни.
+> Подзаявка или вложена заявка е заявка в рамките на друга SQL заявка и е вградена в клаузата WHERE. Подзаявка се използва за връщане на данни, които ще бъдат използвани в основната заявка като условие за допълнително ограничаване на данните, които трябва да бъдат извлечени. Подзаявките могат да се използват с операторите SELECT, INSERT, UPDATE и DELETE заедно с операторите като =, <, >, >=, <=, IN, BETWEEN и т.н.
+
+
+- Подзаявките трябва да бъдат оградени в скоби.
+- Една подзаявка може да има само една колона в клаузата SELECT, освен ако в основната заявка има няколко колони за подзаявката, за да сравни избраните колони.
+- Команда ORDER BY не може да се използва в подзаявка, въпреки че основната заявка може да използва ORDER BY. Командата GROUP BY може да се използва за изпълнение на същата функция като ORDER BY в подзаявка.
+- Подзаявки, които връщат повече от един ред, могат да се използват само с оператори с множество стойности, като оператор IN.
+- Списъкът SELECT не може да включва препратки към стойности, които се оценяват на BLOB, ARRAY, CLOB или NCLOB.
+- Подзаявка не може да бъде незабавно затворена в зададена функция.
+- Операторът BETWEEN не може да се използва с подзаявка. Операторът BETWEEN обаче може да се използва в подзаявката.
+
+### Example
+
+Имаме таблицата Customers
+
+| ID  | NAME     | AGE | ADDRESS   | SALARY   |
+| --- | -------- | --- | --------- | -------- |
+| 1   | Ramesh   | 35  | Ahmedabad | 2000.00  |
+| 2   | Khilan   | 25  | Delhi     | 1500.00  |
+| 3   | kaushik  | 23  | Kota      | 2000.00  |
+| 4   | Chaitali | 25  | Mumbai    | 6500.00  |
+| 5   | Hardik   | 27  | Bhopal    | 8500.00  |
+| 6   | Komal    | 22  | MP        | 4500.00  |
+| 7   | Muffy    | 24  | Indore    | 10000.00 |
+
+```sql
+SELECT * 
+FROM CUSTOMERS 
+WHERE ID IN (SELECT ID 
+    FROM CUSTOMERS 
+    WHERE SALARY > 4500) ;
+```
+
+Това ще е резултата
+
+| ID  | NAME     | AGE | ADDRESS | SALARY   |
+| --- | -------- | --- | ------- | -------- |
+| 4   | Chaitali | 25  | Mumbai  | 6500.00  |
+| 5   | Hardik   | 27  | Bhopal  | 8500.00  |
+| 7   | Muffy    | 24  | Indore  | 10000.00 |
+
 ## 9. Съединения на таблици
+SQL Server основно поддържа **четири типа JOINS** и всеки тип свързване определя как две таблици са свързани в заявка.
+
+1.  INNER JOIN
+2.  SELF JOIN
+3.  CROSS JOIN
+4.  OUTER JOIN
+
+### INNER JOIN
+
+Този JOIN връща всички записи от множество таблици, които отговарят на определеното условие за присъединяване. Това е най-простата и най-популярна форма на присъединяване и се приема като **присъединяване по подразбиране**. Ако пропуснем ключовата дума INNER със заявката JOIN, ще получим същия резултат.
+
+Следното визуално представяне обяснява как INNER JOIN връща съответстващите записи от **table1** и **table2:**
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins2.png)
+
+**INNER JOIN Example**
+**Table: Student**
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins3.png)
+
+**Table: Fee**
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins4.png)
+```sql
+SELECT 
+Student.admission_no, Student.first_name, Student.last_name, Fee.course, Fee.amount_paid  
+FROM Student  
+INNER JOIN Fee  
+ON Student.admission_no = Fee.admission_no;  
+```
+
+Тази команда дава следния резултат:
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins5.png)
+
+### OUTER JOIN
+
+OUTER JOIN в SQL Server **връща всички записи от двете таблици**, които отговарят на условието за присъединяване. С други думи, това обединяване няма да върне само съвпадащия запис, но също така ще върне всички несъвпадащи редове от една или и двете таблици.
+
+**Можем да категоризираме OUTER JOIN допълнително в три типа:**
+-   LEFT OUTER JOIN
+-   RIGHT OUTER JOIN
+-   FULL OUTER JOIN
+
+#### LEFT OUTER JOIN
+
+LEFT OUTER JOIN **извлича всички записи от лявата таблица и съвпадащите редове от дясната таблица**. Той ще върне **NULL** когато в дясната странична таблица не бъде намерен съответстващ запис. Тъй като OUTER е незадължителна ключова дума, тя е известна също като LEFT JOIN.
+
+Визуалното представяне по-долу илюстрира LEFT OUTER JOIN:
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins9.png)
+
+**Example**
+
+```sql 
+SELECT 
+Student.admission_no, Student.first_name, Student.last_name, Fee.course, Fee.amount_paid  
+FROM Student  
+LEFT OUTER JOIN Fee  
+ON Student.admission_no = Fee.admission_no;  
+```
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins10.png)
+
+#### RIGHT OUTER JOIN
+
+RIGHT OUTER JOIN **извлича всички записи от дясната таблица и съответстващите редове от лявата таблица**. Той ще върне **NULL** когато в лявата таблица не бъде намерен съответстващ запис. Тъй като OUTER е незадължителна ключова дума, тя е известна също като RIGHT JOIN.
+
+Визуалното представяне по-долу илюстрира RIGHT OUTER JOIN:
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins11.png)
+
+**Example**
+
+```sql
+SELECT 
+Student.admission_no, Student.first_name, Student.last_name, Fee.course, Fee.amount_paid  
+FROM Student  
+RIGHT OUTER JOIN Fee  
+ON Student.admission_no = Fee.admission_no;  
+```
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins12.png)
+
+#### FULL OUTER JOIN
+
+The FULL OUTER JOIN in SQL Server **returns a result that includes all rows from both tables**. The columns of the right-hand table return NULL when no matching records are found in the left-hand table. And if no matching records are found in the right-hand table, the left-hand table column returns NULL.
+
+The below visual representation illustrates the FULL OUTER JOIN:
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins13.png)
+
+**Example**
+
+```sql
+SELECT 
+Student.admission_no, Student.first_name, Student.last_name, Fee.course, Fee.amount_paid  
+FROM Student  
+FULL OUTER JOIN Fee  
+ON Student.admission_no = Fee.admission_no;  
+```
+
+![SQL Server JOINS](https://static.javatpoint.com/sqlserver/images/sql-server-joins14.png)
+
 ## 10. Агрегиращи функции и групиране на данни
 ## 11.  Филтриране и сортиране на групирани данни. 
