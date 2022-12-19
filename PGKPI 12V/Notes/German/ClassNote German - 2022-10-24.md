@@ -72,3 +72,33 @@ title: Формула
 Ако глагола е модален или спомагателен. Се взима втората му форма и се добавя умляут
 haben - hatte => hätte
 ```
+
+
+
+
+
+Singular
+След    ein, kein, mein
+
+|      | m     | n   | f   |
+| ---- | ----- | --- | --- |
+| N.   | er    | es  | e   |
+| AKK. | en,en | es  | e   |
+| D.   | en    | en  | en  |
+
+Plural
+Без членна дума
+
+N.         neuE Bucher
+AKK.    kleinE Hauser
+D.         mit neuEN FreundeN
+
+
+След    kein, mein    окочанието на прилагателните винаги е EN
+
+N.       keine rotEN Kulis
+D.       mit meinen kleinEN KinderN
+
+---
+ След упределителен член или dies, jed, welch
+

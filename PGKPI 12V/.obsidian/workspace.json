@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa9a8bf7ddab6694",
+        "id": "e2b6f41e3d6e7456",
         "type": "tabs",
         "children": [
           {
-            "id": "3e89c91fd6d7fe56",
+            "id": "dcd9d86c50eebd60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e2e561684d161f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-11-15.md",
+                "file": "Notes/German/ClassNote German - 2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-11-15.md",
+                "file": "Notes/German/ClassNote German - 2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-11-15.md",
+                "file": "Notes/German/ClassNote German - 2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bulgarian/ClassNote Bulgarian- 2022-11-15.md"
+                "file": "Notes/German/ClassNote German - 2022-10-24.md"
               }
             }
           },
@@ -195,17 +182,17 @@
     "direction": "horizontal",
     "width": 291.5
   },
-  "active": "55e2e561684d161f",
+  "active": "dcd9d86c50eebd60",
   "lastOpenFiles": [
-    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-25.md",
     "Home.md",
-    "Notes/xyzMains/Software Engineering - Main.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-11-23.md",
+    "Untitled.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-11-15.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-04.md",
+    "Notes/Bulgarian/ClassNote Bulgarian - 2022-10-11.md",
     "Notes/English/ClassNote English - 2022-10-06.md",
     "Notes/English/ClassNote English - 2022-10-15.md",
-    "Notes/Algorithms/ClassNote Algorithm - 2022-09-30.md",
-    "Notes/Civil Education/ClassNote Civic Education - 2022-10-18.md",
-    "Notes/Softoware Engineering/ClassNote Sofware Engineering - 2022-10-06.md",
-    "Notes/Algorithms/ClassNote Algorithms- 2022-10-10.md",
-    "Notes/Algorithms/Revision.md"
+    "Notes/English/ClassNote English - 2022-11-14.md",
+    "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-25.md"
   ]
 }
