@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "e2b6f41e3d6e7456",
         "type": "tabs",
         "children": [
           {
             "id": "dcd9d86c50eebd60",
+=======
+        "id": "f1dcdd327e88b8a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f3df5e402d593e",
+>>>>>>> 207189e0f8023817ce024f5bd8ef24ac4b91a083
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/German/ClassNote German - 2022-10-24.md",
+=======
+                "file": "Notes/Azure/ClassNote Azure - 2022-12-17.md",
+>>>>>>> 207189e0f8023817ce024f5bd8ef24ac4b91a083
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/German/ClassNote German - 2022-10-24.md",
+=======
+                "file": "Notes/Azure/ClassNote Azure - 2022-12-17.md",
+>>>>>>> 207189e0f8023817ce024f5bd8ef24ac4b91a083
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/German/ClassNote German - 2022-10-24.md",
+=======
+                "file": "Notes/Azure/ClassNote Azure - 2022-12-17.md",
+>>>>>>> 207189e0f8023817ce024f5bd8ef24ac4b91a083
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +151,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/German/ClassNote German - 2022-10-24.md"
+=======
+                "file": "Notes/Azure/ClassNote Azure - 2022-12-17.md"
+>>>>>>> 207189e0f8023817ce024f5bd8ef24ac4b91a083
               }
             }
           },
@@ -182,6 +206,7 @@
     "direction": "horizontal",
     "width": 291.5
   },
+<<<<<<< HEAD
   "active": "dcd9d86c50eebd60",
   "lastOpenFiles": [
     "Home.md",
@@ -194,5 +219,19 @@
     "Notes/English/ClassNote English - 2022-10-15.md",
     "Notes/English/ClassNote English - 2022-11-14.md",
     "Notes/Bulgarian/ClassNote Bulgarian- 2022-10-25.md"
+=======
+  "active": "b8f3df5e402d593e",
+  "lastOpenFiles": [
+    "Assets/PNGs/Pasted image 20221218184509.png",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 22.md",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 20 1 1.md",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 20.md",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 19.md",
+    "Pasted image 20221218184552.png",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 18.md",
+    "Assets/PNGs/Pasted image 20221218184011.png",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 17.md",
+    "Notes/Azure/ClassNote Azure - 2022-12-18 16.md"
+>>>>>>> 207189e0f8023817ce024f5bd8ef24ac4b91a083
   ]
 }
